@@ -49,5 +49,6 @@ This project implements a basic Real-Time Operating System (RTOS) kernel on an S
 
 ---
 
-## 📟 Example UART Output
+
+
 
